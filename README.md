@@ -80,7 +80,7 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+For example:-
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
